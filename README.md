@@ -13,7 +13,7 @@ There are two major functions inside this application.
 # Authors
 * Yi Liu - programmer
 * Yiyun Tan - programmer, see also https://www.linkedin.com/in/yiyun-tan/
-* Jing Huang - UI designer, see alse https://www.linkedin.com/in/jing-huang-689394134/
+* Jing Huang - UI designer, see also https://www.linkedin.com/in/jing-huang-689394134/
 
 
 
