@@ -10,6 +10,11 @@ There are two major functions inside this application.
 * Xcode 9.0.1 or later
 * Swift 4
 
+# Authors
+* Yi Liu - programmer
+* Yiyun Tan - programmer, see also https://www.linkedin.com/in/yiyun-tan/
+* Jing Huang - UI designer, see alse https://www.linkedin.com/in/jing-huang-689394134/
+
 
 
 
